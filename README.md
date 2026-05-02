@@ -19,7 +19,7 @@ A console-based application for managing hotel bookings, room availability, and 
 A simulated stock trading environment allowing users to buy and sell stocks, view portfolios, and track market trends.
 
 **Features:**
-- Real-time stock price simulation
+- Real time stock price simulation
 - Portfolio management
 - Trade history and transaction logging
 - Risk assessment and profit/loss calculation
